@@ -1,5 +1,4 @@
-## Luent
- 
-We are a startup aiming to provide decentralized, secure and private finance. 
+# Hello.
 
-We are projected to release during Q3 2022.
+### Introduction
+We are a startup aiming to provide decentralized, secure and anonymous finance projected to release Q3 2022.
